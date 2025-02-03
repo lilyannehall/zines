@@ -1,1 +1,1 @@
-# website
+# ![Peoples Free Library](logo.jpg)
