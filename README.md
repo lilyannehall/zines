@@ -1,1 +1,1 @@
-# ![Peoples Free Library](logo.jpg)
+# ![People's Free Library](logo.jpg)
