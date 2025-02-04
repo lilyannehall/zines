@@ -32,9 +32,13 @@ blockquote {
 }
 
 img {
-  width: 85%;
+  width: 35%;
   display: block;
   margin: auto;
+}
+
+h5 img {
+  width: 30%;
 }
 
 p {
