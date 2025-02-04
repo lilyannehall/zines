@@ -32,13 +32,9 @@ blockquote {
 }
 
 img {
-  width: 35%;
+  width: 75%;
   display: block;
   margin: auto;
-}
-
-h5 img {
-  width: 30%;
 }
 
 p {
@@ -48,14 +44,14 @@ p {
 }
 
 a {
-  color: #000;
+  color: red;
 }
+
 a:hover {
-  text-decoration: normal;
+  text-decoration: underline;
 }
 
 h1 {
-  text-align: right;
   font-size: 4em;
 }
 
