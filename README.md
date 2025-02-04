@@ -1,4 +1,4 @@
-# ![People's Free Library](header.jpg)
+# ![People's Free Library](logo.jpg)
 
 |   |   |
 |---|---|
@@ -112,7 +112,3 @@
 | *Why Misogynists Make Great Informants*  | [Read]() / [Print]() |
 | *Wild Fermentation*  | [Read]() / [Print]() |
 | *Willem Van Spronsen & His Final Statement*  | [Read]() / [Print]() |
-
----
-
-##### ![People's Free Library](logo.jpg)
