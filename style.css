@@ -162,6 +162,7 @@ a:hover {
 
 h1 {
   font-size: 4em;
+  margin-bottom: -28px;
 }
 
 h1 em {
