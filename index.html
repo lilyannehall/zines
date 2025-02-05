@@ -1,17 +1,8 @@
-{% for books in site.data.books %}
-{% assign book = books[1] %}
-  <h3>{{ book.title }}</h3>
-  <p>{{ book.summary }}</p>
-  <ul class="tags">
-    {% for tags in book.tags %}
-    {% assign tag = tags[1] %}
-    <li data-tag="{{ tag }}">{{ tag }}</li>
-    {% endfor %}
-  </ul>
-  <ul class="links">
-    {% for links in book.links %}
-    {% assign link = links[1] %}
-    <li><a href="{{ link.file }}">{{ link.name }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+---
+layout: default
+---
+
+<div class="search">
+  <input type="text" id="search" placeholder="Filter by title, tag, or summary...">  
+</div>
+<script src="/search.js"></script>
