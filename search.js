@@ -11,6 +11,7 @@ function filterBy(value) {
   }
 
   value.split(' ').forEach(keyword => {
+    let matched = false;
     keyword = keyword.toLowerCase();
 
     for (let i = 0; i < books.length; i++) {
@@ -21,8 +22,11 @@ function filterBy(value) {
 
       if (title.includes(keyword) || summary.includes(keyword) || tags.includes(keyword)) {
         section.setAttribute('style', '');
+        matched = true;
       } else {
-        section.setAttribute('style', 'display:none');
+        if (!matched) {
+          section.setAttribute('style', 'display:none');
+        }
       }
     }
   });
