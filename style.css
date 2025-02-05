@@ -64,7 +64,7 @@ hr {
 .sidebar {
   margin: 0;
   padding: 0;
-  width: 600px;
+  width: 400px;
   background-color: #fff;
   position: fixed;
   height: 100%;
@@ -93,13 +93,13 @@ hr {
 
 /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
 div.content {
-  margin-left: 600px;
+  margin-left: 400px;
   padding: 32px 16px 1px 16px;
   height: 1000px;
 }
 
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   .sidebar {
     width: 100%;
     height: auto;
