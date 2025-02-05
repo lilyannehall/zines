@@ -4,21 +4,25 @@ function filterBy(value) {
   const books = document.getElementsByClassName('book');
 
   if (value === '') {
-    return books.forEach(section => section.setAttribute('style', ''));
+    for (let i = 0; i < books.length; i++) {
+      books[i].setAttribute('style', '');
+    }
+    return;
   }
 
   value.split(' ').forEach(keyword => {
-    books.forEach(section => {
+    for (let i = 0; i < books.length; i++) {
+      const section = books[i];
       const title = section.getElementsByClassName('booktitle')[0].innerText;
       const summary = section.getElementsByClassName('booksummary')[0].innerText;
       const tags = section.getElementsByClassName('booktags')[0].getAttribute('data-tags');
 
-      if (title.includes(keyword) || summary.includes('keyword') || tags.includes('keyword')) {
+      if (title.includes(keyword) || summary.includes(keyword) || tags.includes(keyword)) {
         section.setAttribute('style', '');
       } else {
         section.setAttribute('style', 'diplay:none');
       }
-    });
+    }
   });
 }
 
