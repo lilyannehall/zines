@@ -14,11 +14,11 @@
       <hr>
       {% for book in site.data.books %}
       <section class="book">
-        <h3>{{ book.title }}</h3>
-        <p>{{ book.summary }}</p>
-        <ul class="tags">
+        <h3 class="booktitle">{{ book.title }}</h3>
+        <p class="booksummary">{{ book.summary }}</p>
+        <ul class="booktags" data-tags="{{ book.tags }}">
           {% for tag in book.tags %}
-          <li data-tag="{{ tag }}">{{ tag }}</li>
+          <li>{{ tag }}</li>
           {% endfor %}
         </ul>
         <ul class="links">

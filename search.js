@@ -9,9 +9,9 @@ function filterBy(value) {
 
   value.split(' ').forEach(keyword => {
     books.forEach(section => {
-      const title = section.getElementById('booktitle').innerText;
-      const summary = section.getElementById('booksummary').innerText;
-      const tags = section.getElementById('booktags').getAttribute('data-tags');
+      const title = section.getElementsByClassName('booktitle')[0].innerText;
+      const summary = section.getElementsByClassName('booksummary')[0].innerText;
+      const tags = section.getElementsByClassName('booktags')[0].getAttribute('data-tags');
 
       if (title.includes(keyword) || summary.includes('keyword') || tags.includes('keyword')) {
         section.setAttribute('style', '');
