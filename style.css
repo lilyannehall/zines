@@ -1,5 +1,5 @@
 html, body {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Noto Sans, sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -8,22 +8,64 @@ table {
   width: 100%;
 }
 
+hr {
+  color: red;
+}
+
+.booktags {
+  list-style-type: none;
+}
+
+.booktags li {
+  display: inline-block;
+  font-size: 12px;
+  background: #ccc;
+  background-color: rgb(204, 204, 204);
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-image: none;
+  background-size: auto;
+  background-origin: padding-box;
+  background-clip: border-box;
+  color: #000;
+  padding: 6px;
+  margin-right: 8px;
+}
+
+.links {
+  list-style-type: disclosure-closed;
+  padding: 16px;
+}
+
+.links a {
+  text-recoration: none;
+}
+
+.links a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
 #search {
   display: block;
-  width: 85%;
+  width: 90%;
   padding: 12px;
-  margin: 12px auto;
-  background: #000;
-  border: 1px solid red;
-  color: #fff;
+  margin: 24px 0;
+  background: #fff;
+  color: red;
+  font-size: 16px;
+  border: none;
+  outline: red;
 }
 
  /* The side navigation menu */
 .sidebar {
   margin: 0;
   padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
+  width: 600px;
+  background-color: #fff;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -51,13 +93,13 @@ table {
 
 /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
 div.content {
-  margin-left: 200px;
-  padding: 1px 16px;
+  margin-left: 600px;
+  padding: 32px 16px 1px 16px;
   height: 1000px;
 }
 
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1200px) {
   .sidebar {
     width: 100%;
     height: auto;
