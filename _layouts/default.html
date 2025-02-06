@@ -8,12 +8,11 @@
     <link rel="stylesheet" href="{{ "style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+    {{ content }}
     <div class="sidebar">
       <h1><img alt="People's Free Library" src="pfl-profile.jpg"></h1>
     </div>
     <div class="content">
-    {{ content }}
-      <hr>
       {% for book in site.data.books %}
       <section class="book">
         <h3 class="booktitle">{{ book.title }}</h3>
