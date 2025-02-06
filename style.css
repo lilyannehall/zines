@@ -2,6 +2,7 @@ html, body {
   font-family: Noto Sans, sans-serif;
   margin: 0;
   padding: 0;
+  overflow: auto;
 }
 
 table {
@@ -148,8 +149,8 @@ blockquote {
   max-width: 8.5in;
 }
 
-img {
-  width: 75%;
+h1 img {
+  width: 100%;
   display: block;
   margin: auto;
 }
@@ -170,7 +171,7 @@ a:hover {
 
 h1 {
   font-size: 4em;
-  margin: 96px 0 -30px 0px;
+  margin: 108px 0 -30px 0px;
 }
 
 h1 em {
