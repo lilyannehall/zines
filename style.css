@@ -14,6 +14,7 @@ hr {
 
 .booktags {
   list-style-type: none;
+  padding: 0;
 }
 
 .booktags li {
@@ -21,18 +22,21 @@ hr {
   font-size: 12px;
   background-color: red;
   color: #fff;
-  padding: 6px 6px 6px 0;
+  padding: 6px 12px;
   margin-right: 8px;
   font-style: italic;
+  border-radius: 18px
 }
 
 .links {
-  list-style-type: disclosure-closed;
+  list-style-type: none;
   padding: 16px;
+  background: #feeeee;
+  border-radius: 12px;
 }
 
 .links a {
-  text-recoration: none;
+  text-decoration: none;
 }
 
 .links a:hover {
