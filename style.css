@@ -1,0 +1,209 @@
+html, body {
+  font-family: Noto Sans, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  width: 100%;
+}
+
+hr {
+  color: red;
+}
+
+.booktags {
+  list-style-type: none;
+}
+
+.booktags li {
+  display: inline-block;
+  font-size: 12px;
+  background: #ccc;
+  background-color: rgb(204, 204, 204);
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-image: none;
+  background-size: auto;
+  background-origin: padding-box;
+  background-clip: border-box;
+  color: #000;
+  padding: 6px;
+  margin-right: 8px;
+}
+
+.links {
+  list-style-type: disclosure-closed;
+  padding: 16px;
+}
+
+.links a {
+  text-recoration: none;
+}
+
+.links a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+#search {
+  display: block;
+  width: 90%;
+  padding: 12px;
+  margin: 24px 0;
+  background: #fff;
+  color: red;
+  font-size: 16px;
+  border: none;
+  outline: red;
+}
+
+ /* The side navigation menu */
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 400px;
+  background-color: #fff;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+/* Sidebar links */
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+
+/* Active/current link */
+.sidebar a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+/* Links on mouse-over */
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+div.content {
+  margin-left: 400px;
+  padding: 32px 16px 1px 16px;
+  height: 1000px;
+}
+
+/* On screens that are less than 700px wide, make the sidebar into a topbar */
+@media screen and (max-width: 800px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+}
+
+tr:nth-child(2n) {
+  background: #eee;
+}
+
+td {
+  padding: 6px;
+}
+
+pre {
+  overflow: auto;
+}
+
+blockquote {
+  border: 1px solid black;
+  padding: 0 32px;
+}
+
+.container {
+  padding: 4em;
+  margin: auto;
+  max-width: 8.5in;
+}
+
+img {
+  width: 75%;
+  display: block;
+  margin: auto;
+}
+
+p {
+  line-height: 1.5em;
+  font-size: 1.1em;
+  margin: 2em 0;
+}
+
+a {
+  color: red;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 4em;
+  margin-bottom: -28px;
+}
+
+h1 em {
+  display: block;
+  font-size: 1rem;
+}
+
+h2 {
+  border-bottom: 0.5rem solid #000;
+  padding: 0.5rem 0;
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h3 strong {
+  display: block;
+  float: right;
+  color: white;
+  background-color: black;
+  padding: 0 0.5rem;
+}
+
+h4 {
+  font-style: italic;
+  font-weight: normal;
+}
+
+h5 {
+  font-size: 1em;
+  font-weight: normal;
+  font-style: italic;
+  margin: 0.5em 0 0.5em 2em;
+}
+
+h5 em {
+  display: block;
+  float: inline-end;
+  text-align: left;
+  max-width: 40em;
+  padding: 0 2rem;
+}

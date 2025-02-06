@@ -5,11 +5,31 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=0.8">
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <div class="container">
-      {{ content }}
+    <div class="sidebar">
+      <h1><img alt="People's Free Library" src="pfl-profile.jpg"></h1>
+    </div>
+    <div class="content">
+    {{ content }}
+      <hr>
+      {% for book in site.data.books %}
+      <section class="book">
+        <h3 class="booktitle">{{ book.title }}</h3>
+        <p class="booksummary">{{ book.summary }}</p>
+        <ul class="booktags" data-tags="{{ book.tags }}">
+          {% for tag in book.tags %}
+          <li>{{ tag }}</li>
+          {% endfor %}
+        </ul>
+        <ul class="links">
+          {% for link in book.links %}
+          <li><a href="{{ link.file }}">📖 {{ link.name }}</a></li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endfor %}
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
