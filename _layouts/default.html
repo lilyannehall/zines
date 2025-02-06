@@ -13,13 +13,14 @@
       <h1><img alt="People's Free Library" src="pfl-profile.jpg"></h1>
     </div>
     <div class="content">
-      {% for book in site.data.books %}
+      {% assign books = site.data.books | sort: "title" %}
+      {% for book in books %}
       <section class="book">
         <h3 class="booktitle">{{ book.title }}</h3>
         <p class="booksummary">{{ book.summary }}</p>
         <ul class="booktags" data-tags="{{ book.tags }}">
           {% for tag in book.tags %}
-          <li>🛈 {{ tag }}</li>
+          <li>🏷️ {{ tag }}</li>
           {% endfor %}
         </ul>
         <ul class="links">
