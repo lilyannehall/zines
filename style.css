@@ -30,6 +30,11 @@ hr {
   margin-top: 8px;
 }
 
+.booktags li:hover {
+  background: #000;
+  cursor: pointer;
+}
+
 .search {
   background: #fff;
   border-bottom: 1px solid red;
