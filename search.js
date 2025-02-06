@@ -40,4 +40,11 @@ document.addEventListener('DOMContentLoaded', function() {
     filterBy(input.value);
   });
 
+  $$('.booktags li').forEach(function(tag) {
+    tag.addEventListener('click', function() {
+      $('#search').value = tag.innerText.substr(2);
+      filterBy($('#search').value);
+    });
+  });
+
 });
