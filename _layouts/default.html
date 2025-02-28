@@ -8,13 +8,12 @@
     <link rel="stylesheet" href="{{ "style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+    <h1><img alt="People's Free Library" src="pfl-profile.jpg"></h1>
     {{ content }}
-    <div class="sidebar">
-      <h1><img alt="People's Free Library" src="pfl-profile.jpg"></h1>
-    </div>
     <div class="content">
       {% assign books = site.data.books | sort_natural: "title" %}
       {% for book in books %}
+      {% unless book.hide %}
       <section class="book">
         <h3 class="booktitle">{{ book.title }}</h3>
         <p class="booksummary">{{ book.summary }}</p>
@@ -25,10 +24,12 @@
         </ul>
         <ul class="links">
           {% for link in book.links %}
-          <li><a href="{{ link.file }}">📕 {{ link.name }}</a></li>
+          {% assign file = link.file | split: '../' %}
+          <li><a href="{{ file[1] }}">📕 {{ link.name }}</a></li>
           {% endfor %}
         </ul>
       </section>
+      {% endunless %}
       {% endfor %}
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>

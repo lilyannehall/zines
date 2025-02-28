@@ -5,17 +5,17 @@
     - incarceration
   links:
     - name: Digital Reading (English)
-      file: books/myths-of-psychiatric-incarceration/DigitalReading-ENGLISH.pdf
+      file: ../books/myths-of-psychiatric-incarceration/DigitalReading-ENGLISH.pdf
     - name: Digital Reading (Spanish)
-      file: books/myths-of-psychiatric-incarceration/DigitalReading-SPANISH.pdf
+      file: ../books/myths-of-psychiatric-incarceration/DigitalReading-SPANISH.pdf
     - name: Digital Reading (French)
-      file: books/myths-of-psychiatric-incarceration/DigitalReading-FRENCH.pdf
+      file: ../books/myths-of-psychiatric-incarceration/DigitalReading-FRENCH.pdf
     - name: For Printing (English)
-      file: books/myths-of-psychiatric-incarceration/ForPrinting-ENGLISH.pdf
+      file: ../books/myths-of-psychiatric-incarceration/ForPrinting-ENGLISH.pdf
     - name: For Printing (Spanish)
-      file: books/myths-of-psychiatric-incarceration/ForPrinting-SPANISH.pdf
+      file: ../books/myths-of-psychiatric-incarceration/ForPrinting-SPANISH.pdf
     - name: For Printing (French)
-      file: books/myths-of-psychiatric-incarceration/ForPrinting-FRENCH.pdf
+      file: ../books/myths-of-psychiatric-incarceration/ForPrinting-FRENCH.pdf
 
 - title: 10 Anarchist Theses on Palestine Solidarity in the United States 
   summary: Anonymously submitted to Haters Cafe (haters.life). Designed by post.chicanx. 
@@ -25,14 +25,16 @@
     - solidarity
   links:
     - name: For Printing (English)
-      file: books/10-anarchist-theses-on-palestine-solidarity-in-the-united-states/ForPrinting-ENGLISH.pdf
+      file: ../books/10-anarchist-theses-on-palestine-solidarity-in-the-united-states/ForPrinting-ENGLISH.pdf
 
-- title: 2024 Beheading the Imperialist Snake 
+- title: 2024 Beheading the Imperialist Snake
+  hide: true
   summary:  
   tags:
   links:
 
 - title: 4 Years Later 
+  hide: true
   summary: 
   tags:
   links:
@@ -47,9 +49,9 @@
     - survivor
   links:
     - name: Digital Reading (English)
-      file: books/accounting-for-ourselves/DigitalReading-ENGLISH.pdf
+      file: ../books/accounting-for-ourselves/DigitalReading-ENGLISH.pdf
     - name: For Printing (English)
-      file: books/accounting-for-ourselves/ForPrinting-ENGLISH.pdf
+      file: ../books/accounting-for-ourselves/ForPrinting-ENGLISH.pdf
 
 - title: Activist Trauma & Recovery 
   summary: >
@@ -67,7 +69,7 @@
     - stress
   links:
     - name: For Printing (English)
-      file: books/activist-trauma-and-recovery/ForPrinting-ENGLISH.pdf
+      file: ../books/activist-trauma-and-recovery/ForPrinting-ENGLISH.pdf
 
 - title: after we have burnt everything... 
   summary: >
@@ -80,9 +82,9 @@
     - black bloc
   links:
     - name: Digital Reading (English)
-      file: books/after-we-have-burnt-everything/DigitalReading-ENGLISH.pdf
+      file: ../books/after-we-have-burnt-everything/DigitalReading-ENGLISH.pdf
     - name: For Printing (English)
-      file: books/after-we-have-burnt-everything/ForPrinting-ENGLISH.pdf
+      file: ../books/after-we-have-burnt-everything/ForPrinting-ENGLISH.pdf
 
 - title: Alternatives to Psychiatric Incarceration 
   summary: Build your own make-shift respite. By @embracing.ambiguity.
@@ -91,9 +93,9 @@
     - incarceration
   links:
     - name: Digital Reading (English)
-      file: books/alternatives-to-psychiatric-incarceration/DigitalReading-ENGLISH.pdf
+      file: ../books/alternatives-to-psychiatric-incarceration/DigitalReading-ENGLISH.pdf
     - name: For Printing (English)
-      file: books/alternatives-to-psychiatric-incarceration/ForPrinting-ENGLISH.pdf
+      file: ../books/alternatives-to-psychiatric-incarceration/ForPrinting-ENGLISH.pdf
 
 - title: Anarchist Introduction to Critical Race Theory 
   summary: By Revolutionary Anti-Authoritarians of Color, 2002. 
@@ -103,9 +105,9 @@
     - anarchist
   links:
     - name: Digital Reading (English)
-      file: books/an-anarchist-introduction-to-critical-race-theory/DigitalReading-ENGLISH.pdf
+      file: ../books/an-anarchist-introduction-to-critical-race-theory/DigitalReading-ENGLISH.pdf
     - name: For Printing (English)
-      file: books/an-anarchist-introduction-to-critical-race-theory/ForPrinting-ENGLISH.pdf
+      file: ../books/an-anarchist-introduction-to-critical-race-theory/ForPrinting-ENGLISH.pdf
 
 - title: Answers for white people on appropriation, hair, and anti-racist struggle 
   summary: 
@@ -116,7 +118,7 @@
     - anti-racism
   links:
     - name: For Printing (English)
-      file: books/answers-for-white-people-on-appropriation-hair-and-anti-racist-struggle/ForPrinting-ENGLISH.pdf
+      file: ../books/answers-for-white-people-on-appropriation-hair-and-anti-racist-struggle/ForPrinting-ENGLISH.pdf
 
 - title: Aphorisms Against Work 
   summary: Suggestions to the Slacker Generation on Commencing a Post-Workerist Revolution
@@ -126,9 +128,9 @@
     - anti-capitalism
   links:
     - name: Digital Reading (English)
-      file: books/aphorisms-against-work/DigitalReading-ENGLISH.pdf
+      file: ../books/aphorisms-against-work/DigitalReading-ENGLISH.pdf
     - name: For Printing (English)
-      file: books/aphorisms-against-work/ForPrinting-ENGLISH.pdf
+      file: ../books/aphorisms-against-work/ForPrinting-ENGLISH.pdf
 
 - title: "Arrestos y Redadas de Inmigracion: Lo que Necesitas Saber para Proteger tus Derechos" 
   summary: >
@@ -143,119 +145,162 @@
     - inmagracion
   links:
     - name: Digital Reading (Spanish)
-      file: books/arrestos-y-redadas-de-inmigracion-lo-que-necesitas-saber-para-proteger-tus-derechos/DigitalReading-SPANISH.pdf
+      file: ../books/arrestos-y-redadas-de-inmigracion-lo-que-necesitas-saber-para-proteger-tus-derechos/DigitalReading-SPANISH.pdf
 
 - title: Battle Tested 
-  summary: 
+  summary: Solidarity with anarchist prisoner Eric King 
   tags:
+    - prison
+    - eric king
+    - solidarity
   links:
-    - name: Read
-      file: https://supportericking.wordpress.com/wp-content/uploads/2015/08/eric-king-writings-zine.pdf
-    - name: Print
-      file: 
+    - name: For Printing (English)
+      file: ../books/battle-tested/ForPrinting-ENGLISH.pdf
 
 - title: Blinding the Cyclops, Wrecking the Panopticon 
-  summary: 
+  summary: Camera hunting in the metropolis
   tags:
+    - surveillance
   links:
-    - name: Read
-      file: https://cdn.crimethinc.com/assets/zines/blinding-the-cyclops/blinding-the-cyclops_lite.pdf
-    - name: Print
-      file: 
+    - name: For Printing (English)
+      file: ../books/blinding-the-cyclops-wrecking-the-panopticon/ForPrinting-ENGLISH.pdf
 
 - title: Bounty Hunters and Child Predators 
-  summary: 
+  summary: Inside the FBI entrapment strategy 
   tags:
+    - fbi
+    - crimethinc
   links:
-    - name: Read
-      file: https://theanarchistlibrary.org/library/crimethinc-bounty-hunters-child-predators.pdf
-    - name: Print
-      file: https://theanarchistlibrary.org/library/crimethinc-bounty-hunters-child-predators.lt.pdf
+    - name: Digital Reading (English)
+      file: ../books/bounty-hunters-child-predators/DigitalReading-ENGLISH.pdf
+    - name: For Printing (English)
+      file: ../books/bounty-hunters-child-predators/ForPrinting-ENGLISH.pdf
+
 
 - title: But How to Make a Friend 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Clenched Fists Empty Pockets 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Communique on Sabotaging Zionist Infrastructure 
-  summary: 
+  summary: Shutting Down Friends of the IDF
   tags:
+    - palestine
+    - zionism
+    - IDF
   links:
-    - name: Read
-      file: https://theanarchistlibrary.org/library/a-communique-on-sabotaging-zionist-infrastructure-shutting-down-friends-of-the-idf.pdf
-    - name: Print
-      file: https://theanarchistlibrary.org/library/a-communique-on-sabotaging-zionist-infrastructure-shutting-down-friends-of-the-idf.pdf
+    - name: Digital Reading (English)
+      file: ../books/a-communique-on-sabotaging-zionist-infrastructure/DigitalReading-ENGLISH.pdf
 
 - title: Conceptos Basicos de Desalojos 
-  summary: 
+  summary: >
+    Detener, retrasar o reducir los daños por desalojo & 
+    ¡Construir el Movimiento de Inquilinatos en PDX!
   tags:
+    - eviction
+    - desalojos
   links:
-    - name: Read
-      file: https://www.dontevictpdx.org/spanish-eviction-basics
-    - name: Print
-      file: 
+    - name: Digital Reading (Spanish)
+      file: ../books/conceptos-basicos-de-desalojos/DigitalReading-SPANISH.pdf
+    - name: For Printing (Spanish)
+      file: ../books/conceptos-basicos-de-desalojos/ForPrinting-SPANISH.pdf
 
 - title: Cooperative Scavenging 
-  summary: 
+  summary: >
+     A close look at post-civilized approaches to production and
+     highlight a possible way to undermine the capitalist economic system
   tags:
+    - economics
+    - capitalism
   links:
-    - name: Read
-      file: https://theanarchistlibrary.org/library/margaret-killjoy-cooperative-scavenging.pdf
-    - name: Print
-      file: https://theanarchistlibrary.org/library/margaret-killjoy-cooperative-scavenging.lt.pdf
+    - name: Digital Reading (English)
+      file: ../books/cooperative-scavenging/DigitalReading-ENGLISH.pdf
+    - name: For Printing (English)
+      file: ../books/cooperative-scavenging/ForPrinting-ENGLISH.pdf
 
 - title: D and F want to know 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Dangerous Foundations 
-  summary: 
+  summary: >
+    An argument against the ‘Identity’ in Identity Politics
   tags:
+    - identity politics 
   links:
-    - name: Read
-      file: https://files.sproutdistro.com/dangerous_foundations-screen.pdf
-    - name: Print
-      file: https://files.sproutdistro.com/dangerous_foundations.pdf
+    - name: Digital Reading (English)
+      file: ../books/dangerous-foundations/DigitalReading-ENGLISH.pdf
+    - name: For Printing (English)
+      file: ../books/dangerous-foundations/ForPrinting-ENGLISH.pdf
 
 - title: Do-It-Yourself Occupation Guide 2024 Edition 
-  summary: 
+  summary: >
+    This “2024 Edition” of the Do-It-Yourself Occupation Guide updates
+    only a few pieces of outdated or incorrect information in the practical
+    sections, along with some minor additions and reformatting. The writ-
+    ing and analysis is otherwise identical to the 2012 edition. This edit was
+    an independent effort not connected to the original authors; it comes in
+    light of a nationwide resurgence of student occupations in 2024, begin-
+    ning with Columbia University in New York, in response to an ongoing
+    genocide in Palestine. This edition is released in hopes that the practical
+    instructions and insights of the 2009-2012 occupation movements will
+    prove useful to a new generation of students
   tags:
+    - occupation
+    - students
   links:
-    - name: Read
-      file: https://www.indybay.org/uploads/2024/04/29/diy-occupation-guide-2024-screen.pdf
-    - name: Print
-      file: https://www.indybay.org/uploads/2024/04/29/diy-occupation-guide-2024-print.pdf
+    - name: Digital Reading (English)
+      file: ../books/diy-occupation-guide-2024/DigitalReading-ENGLISH.pdf
+    - name: For Printing (English)
+      file: ../books/diy-occupation-guide-2024/ForPrinting-ENGLISH.pdf
 
 - title: Don't Just Do Nothing To Counter Fascism 
-  summary: 
+  summary: >
+    “Don’t Just Do Nothing: 20 Things You Can Do to Counter
+    Fascism — Yes, You! Yes, Now” is intended as inspiration for
+    everyone who is striving toward a world without fascism —
+    whether or not they’re Jewish or an anarchist. Please share
+    this zine freely and widely.
   tags:
+    - fascism
+    - antifascism
   links:
-    - name: Read
-      file: https://itsgoingdown.org/wp-content/uploads/2024/11/DontJustDoNothing_CounterFascism_IMPOSED.pdf
-
+    - name: For Printing (English)
+      file: ../books/dont-just-do-nothing-to-counter-fascism/ForPrinting-ENGLISH.pdf
+        
 - title: Edible, Medicinal, & Utilitarian Plants 
-  summary: 
+  summary: >
+    Volume I: "Weeds" & Common Plants
   tags:
+    - plants
+    - medicine
   links:
-    - name: Read
-      file: https://files.sproutdistro.com/edible_medicinal_utilitarian_plants-SCREEN.pdf
+    - name: Ditigal Reading (English)
+      file: ../books/edible-medicinal-utilitarian-plants/DigitalReading-ENGLISH.pdf
     - name: Print
-      file: https://files.sproutdistro.com/edible_medicinal_utilitarian_plants.pdf
+      file: ../books/edible-medicinal-utilitarian-plants/ForPrinting-ENGLISH.pdf
 
 - title: Estrategias para Detener las Deportaciones 
-  summary: 
+  summary: >
+    A QUÉ NOS ENFRENTAMOS Y CÓMO PODRÍA SER LA LUCHA
   tags:
+    - deportation
+    - ice
   links:
-    - name: Read
-      file: https://cdn.crimethinc.com/assets/zines/estrategias-para-detener-las-deportaciones/estrategias-para-detener-las-deportaciones_lite.pdf
+    - name: For Printing (Spanish)
+      file: ../books/estrategias-para-detener-las-deportaciones/ForPrinting-SPANISH.pdf
 
 - title: Eye of Every Storm 
+  hide: true
   summary: 
   tags:
   links:
@@ -263,6 +308,7 @@
       file: https://cdn.crimethinc.com/assets/zines/the-eye-of-every-storm-anarchist-response-to-hurricane-helene/the-eye-of-every-storm-anarchist-response-to-hurricane-helene_print_black_and_white.pdf
 
 - title: Fash Trash Removal Guide 
+  hide: true
   summary: 
   tags:
   links:
@@ -272,26 +318,31 @@
       file: https://ia803202.us.archive.org/3/items/zines-anti-fascism/Fash_Trash_Removal_Guide.pdf
 
 - title: Fauda #1 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Fauda #2 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Fauda #3 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Fauda #4 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Field Guide To Wheatpasting 
+  hide: true
   summary: 
   tags:
   links:
@@ -299,6 +350,7 @@
       file: https://cdn.crimethinc.com/assets/zines/field-guide-to-wheatpasting/field-guide-to-wheatpasting_lite.pdf
 
 - title: Flowers Will Emerge From the Desert 
+  hide: true
   summary: 
   tags:
   links:
@@ -306,16 +358,19 @@
       file: https://files.libcom.org/files/2024-12/Flowers%20Sudan-booklet.pdf
 
 - title: For When You Want to Give Up 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: "Freedom is Coming: Shattering Slavery and Emptying Prisons" 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: From Redwood Trees the View of a New World Being Born 
+  hide: true
   summary: 
   tags:
   links:
@@ -325,6 +380,7 @@
       file: https://cdn.crimethinc.com/assets/zines/from-redwood-trees-the-view-of-a-new-world-being-born/from-redwood-trees-the-view-of-a-new-world-being-born_print_black_and_white.pdf
 
 - title: Fuck Nations, Squat the World 
+  hide: true
   summary: 
   tags:
   links:
@@ -334,6 +390,7 @@
       file: https://theanarchistlibrary.org/library/nikos-romanos-fuck-the-nation-squat-the-world.lt.pdf
 
 - title: Guia para Auto-Manejar un Aborto 
+  hide: true
   summary: 
   tags:
   links:
@@ -341,6 +398,7 @@
       file: https://abortionrights.nyc/wp-content/uploads/2023/01/nycfar-sma-zine-spanish.pdf
 
 - title: Herbal Medicine Making Primer 
+  hide: true
   summary: 
   tags:
   links:
@@ -350,6 +408,7 @@
       file: https://files.sproutdistro.com/an_herbal_medicine_making_primer.pdf
 
 - title: Hilltop Boys 
+  hide: true
   summary: 
   tags:
   links:
@@ -357,6 +416,7 @@
       file: https://azinelibrary.org/approved/hilltop-boys-true-story-about-hilltop-crips-1.pdf
 
 - title: "History Repeats Itself: First As Farce, Then As Tragedy" 
+  hide: true
   summary: 
   tags:
   links:
@@ -366,6 +426,7 @@
       file: https://cdn.crimethinc.com/assets/zines/history-repeats-itself-first-as-farce-then-as-tragedy/history-repeats-itself-first-as-farce-then-as-tragedy_print_black_and_white.pdf
 
 - title: "Hot Pantz: DIY Gynecology" 
+  hide: true
   summary: 
   tags:
   links:
@@ -375,11 +436,13 @@
       file: https://files.sproutdistro.com/HotPantz-imposed.pdf
 
 - title: How it is to Be Fun 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: How to Organize an Assembly 
+  hide: true
   summary: 
   tags:
   links:
@@ -389,6 +452,7 @@
       file: https://cdn.crimethinc.com/assets/zines/how-to-organize-an-assembly/how-to-organize-an-assembly_print_black_and_white.pdf
 
 - title: How to Throw a Squatted Dance Party 
+  hide: true
   summary: 
   tags:
   links:
@@ -398,6 +462,7 @@
       file: https://cdn.crimethinc.com/assets/zines/how-to-organize-a-squatted-dance-party/how-to-organize-a-squatted-dance-party_lite.pdf
 
 - title: If You See Something, Do Something! 
+  hide: true
   summary: 
   tags:
   links:
@@ -405,6 +470,7 @@
       file: https://ia800405.us.archive.org/30/items/12ThingsToDoInsteadOfCallingTheCops/12things-screen.pdf
 
 - title: In Defense of Smashing Cameras 
+  hide: true
   summary: 
   tags:
   links:
@@ -414,6 +480,7 @@
       file: https://theanarchistlibrary.org/library/anonymous-in-defense-of-smashing-cameras.lt.pdf
 
 - title: Industrial Domestication 
+  hide: true
   summary: 
   tags:
   links:
@@ -423,6 +490,7 @@
       file: https://files.sproutdistro.com/industrial-domestication.pdf
 
 - title: International Revolutionary Solidarity Movement 
+  hide: true
   summary: 
   tags:
   links:
@@ -432,6 +500,7 @@
       file: https://theanarchistlibrary.org/library/albert-meltzer-ed-the-international-revolutionary-solidarity-movement.lt.pdf
 
 - title: Interview with Safiya Bukhari 
+  hide: true
   summary: 
   tags:
   links:
@@ -441,6 +510,7 @@
       file: https://www.indybay.org/uploads/2024/11/21/bukhari_letter.pdf
 
 - title: It's a Sin to Kill a Mockingbird 
+  hide: true
   summary: 
   tags:
   links:
@@ -450,6 +520,7 @@
       file: https://thecontemporariesproject.blackblogs.org/wp-content/uploads/sites/685/2018/09/its-a-sin-to-killPRINT.indd_.pdf
 
 - title: It's Vacant, Take it! 
+  hide: true
   summary: 
   tags:
   links:
@@ -459,16 +530,19 @@
       file: https://files.sproutdistro.com/its-vacant-take-it-IMPOSED.pdf
 
 - title: Jailhouse Lawyers Speak 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: jane 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: JVP Bay Area Faciliatates "IDF" Fundraiser 
+  hide: true
   summary: 
   tags:
   links:
@@ -478,6 +552,7 @@
       file: https://www.southchicagoabc.org/tlp/jvp-facilitates-idf-fundraiser/jvp-facilitates-idf-fundraiser.pdf
 
 - title: Know Your Rights! Justus NYC 
+  hide: true
   summary: 
   tags:
   links:
@@ -485,6 +560,7 @@
       file: https://files.sproutdistro.com/know_your_rights_zine.pdf
 
 - title: Landlord Communication 
+  hide: true
   summary: 
   tags:
   links:
@@ -492,261 +568,313 @@
       file: https://drive.google.com/file/d/1NWlfT9Wn4tDxPmWeuOIN5lFD2XKVegef/view
 
 - title: Learning Good Consent 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Legal Resource Center 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Let's Talk About Consent Baby 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Love Letter to the Future 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Mask Up We Need You 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Memoirs of a Queer Hapa #2 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: MIT Guide to Lockpicking 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Not an Unexpected Death 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Notes on Anarchism 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: "Organizing Against Your Landlord: How to Start a Tenants Association" 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Our Narrative... Operation Al-Aqsa Flood 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Palestinian Prisoner's Movement 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Para Cambiar Todo 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Por Que el Gobierno es Asi? 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Portland Mutual Aid Calendar January 2024 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: practical guide to prisoner support 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Primitive Toothcare 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Profiles of Provocateurs 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Promise Not a Statement 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Racism and Capitalism 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: "Red Flags: Before You Join That Org" 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Riot Medicine Field Guide 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: said the pot to the kettle 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Si Se Puede Smash the State 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Sicilian Soldier 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Slave Patrols & Civil Servants 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: "Slow Burn: Civility and the White Community" 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: "Stay Calm: some tips dor keeping safe in times of state repression" 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Sticking to It 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Stop Cop City! 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Strategizing to Stop Mass Deportations 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Supporting a Survivor of Sexual Assault 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: The Left Has a Misogynoir Problem 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: The Political Logic of the Nonprofit Industrial Complex 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: The Wrong Ice is Melting 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: There's No Such Thing as Revolutionary Government 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: To Change Everything 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: To Tramps, The Unemployed, the Disinherited, and Miserable 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Turn Off Your Phone! 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Understanding the RICO Charges in Atlanta 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: "Vancouver Five: armed struggle in Canada" 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Wellness on the Inside 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: What I Love About Luigi 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: What is Security Culture? 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: What's Up With COVID and How to Protect Yourself 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Whatever You Do, Don't Talk to the Police 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: When we leave we do not march 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Where you can get safer smoking supplies 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Who wrote that? 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Why Misogynists Make Great Informants 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Wild Fermentation 
+  hide: true
   summary: 
   tags:
   links:
 
 - title: Willem Van Spronsen & His Final Statement 
+  hide: true
   summary: 
   tags:
   links:
