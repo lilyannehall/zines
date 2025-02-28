@@ -118,7 +118,6 @@ div.content {
   }
   .sidebar a {float: left;}
   div.content {margin-left: 0;}
-  h1 {display:none;}
 }
 
 /* On screens that are less than 400px, display the bar vertically, instead of horizontally */
