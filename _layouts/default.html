@@ -8,10 +8,8 @@
     <link rel="stylesheet" href="{{ "style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+    <h1><img alt="People's Free Library" src="pfl-profile.jpg"></h1>
     {{ content }}
-    <div class="sidebar">
-      <h1><img alt="People's Free Library" src="pfl-profile.jpg"></h1>
-    </div>
     <div class="content">
       {% assign books = site.data.books | sort_natural: "title" %}
       {% for book in books %}
