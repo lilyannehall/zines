@@ -300,22 +300,28 @@
       file: ../books/estrategias-para-detener-las-deportaciones/ForPrinting-SPANISH.pdf
 
 - title: Eye of Every Storm 
-  hide: true
-  summary: 
+  summary: Anarchist response to hurricane Helene 
   tags:
+    - hurricane
+    - anarchist
+    - helene
+    - disaster
+    - climate
   links:
-    - name: Read
-      file: https://cdn.crimethinc.com/assets/zines/the-eye-of-every-storm-anarchist-response-to-hurricane-helene/the-eye-of-every-storm-anarchist-response-to-hurricane-helene_print_black_and_white.pdf
+    - name: For Printing (English)
+      file: ../books/the-eye-of-every-storm/ForPrinting-ENGLISH.pdf
 
 - title: Fash Trash Removal Guide 
-  hide: true
-  summary: 
+  summary: >
+    The intent of this zine is to give you insight into how to deal with fash
+    banner drops, glued posters, stickers, etc.
   tags:
+    - antifascism
   links:
-    - name: Read
-      file: https://ia803202.us.archive.org/3/items/zines-anti-fascism/Fash_Trash_Removal_Guide-screen.pdf
-    - name: Print
-      file: https://ia803202.us.archive.org/3/items/zines-anti-fascism/Fash_Trash_Removal_Guide.pdf
+    - name: Digital Reading (English)
+      file: ../books/fash-trash-removal-guide/DigitalReading-ENGLISH.pdf
+    - name: For Printing (English)
+      file: ../books/fash-trash-removal-guide/ForPrinting-ENGLISH.pdf
 
 - title: Fauda #1 
   hide: true
@@ -342,20 +348,31 @@
   links:
 
 - title: Field Guide To Wheatpasting 
-  hide: true
-  summary: 
+  summary: >
+    Like graffiti, wheatpasting is a direct action technique for
+    communicating with your neighbors and redecorating your 
+    environment. Because it’s easy to mass-produce posters, wheatpasting enables
+    you to deploy a nuanced, complex message at a large number of 
+    locations with minimal effort and risk.
   tags:
+    - wheatpasting
+    - howto
+    - graffiti
+    - direct action
   links:
-    - name: Read
-      file: https://cdn.crimethinc.com/assets/zines/field-guide-to-wheatpasting/field-guide-to-wheatpasting_lite.pdf
+    - name: Digital Reading (English)
+      file: ../books/a-field-guide-to-wheatpasting/ForPrinting-ENGLISH.pdf
 
 - title: Flowers Will Emerge From the Desert 
-  hide: true
-  summary: 
+  summary: >
+    Interviews & Communiques from Sudanese Anarchists
   tags:
+    - sudan
+    - sudanese
+    - anarchy
   links:
-    - name: Read
-      file: https://files.libcom.org/files/2024-12/Flowers%20Sudan-booklet.pdf
+    - name: For Printing (English)
+      file: ../books/flowers-will-emerge-from-the-desert/ForPrinting-ENGLISH.pdf
 
 - title: For When You Want to Give Up 
   hide: true
@@ -370,70 +387,97 @@
   links:
 
 - title: From Redwood Trees the View of a New World Being Born 
-  hide: true
-  summary: 
+  summary: A Statement from the Tree Occupation at Cal Poly Humboldt
   tags:
+    - palestine
+    - student
+    - occupation
+    - cal poly humbolt
   links:
-    - name: Read
-      file: https://crimethinc.com/2024/04/29/from-redwood-trees-to-olive-groves-the-commune-grows-a-statement-from-the-tree-occupation-at-cal-poly-humboldt
-    - name: Print
-      file: https://cdn.crimethinc.com/assets/zines/from-redwood-trees-the-view-of-a-new-world-being-born/from-redwood-trees-the-view-of-a-new-world-being-born_print_black_and_white.pdf
+    - name: For Printing (English)
+      file: ../books/from-redwood-trees-the-view-of-a-new-world-being-born/ForPrinting-ENGLISH.pdf
 
-- title: Fuck Nations, Squat the World 
-  hide: true
-  summary: 
+- title: Fuck The Nation, Squat the World 
+  summary: >
+    The campaign «Fuck the Nations – Squat the World» is a
+    unique opportunity to send a clear message to both the state
+    and the fascists that the choice they made by targeting the 
+    anarchist squats is a choice that will be answered with an 
+    appropriate manner, with attacks, sabotage and polymorphous 
+    struggle by all means.
   tags:
+    - black december
+    - anarchy
+    - squatting
   links:
-    - name: Read
-      file: https://theanarchistlibrary.org/library/nikos-romanos-fuck-the-nation-squat-the-world.pdf
-    - name: Print
-      file: https://theanarchistlibrary.org/library/nikos-romanos-fuck-the-nation-squat-the-world.lt.pdf
+    - name: Digital Reading (English)
+      file: ../books/fuck-the-nation-squat-the-world/DigitalReading-ENGLISH.pdf
+    - name: For Printing (English)
+      file: ../books/fuck-the-nation-squat-the-world/ForPrinting-ENGLISH.pdf
 
 - title: Guia para Auto-Manejar un Aborto 
-  hide: true
-  summary: 
+  summary: >
+    Escrito por Reproductive Justice Collective at Columbia
+    Adaptado para NYC for Abortion Rights
   tags:
+    - abortion
+    - aborto
+    - reproductive rights
   links:
-    - name: Read
-      file: https://abortionrights.nyc/wp-content/uploads/2023/01/nycfar-sma-zine-spanish.pdf
+    - name: For Printing (Spanish)
+      file: ../books/guia-para-auto-manejar-un-aborto/ForPrinting-SPANISH.pdf
 
 - title: Herbal Medicine Making Primer 
-  hide: true
-  summary: 
+  summary: >
+    Thoughts On Health and Healing For the Revolution
   tags:
+    - herbalism
+    - medicine
+    - health
+    - wildcrafting
   links:
-    - name: Read
-      file: https://ia600904.us.archive.org/29/items/AnHerbalMedicine-makingPrimer/an_herbal_medicine_making_primer-SCREEN.pdf
-    - name: Print
-      file: https://files.sproutdistro.com/an_herbal_medicine_making_primer.pdf
+    - name: Digital Reading (English)
+      file: ../books/an-herbal-medicine-making-primer/DigitalReading-ENGLISH.pdf
+    - name: For Printing (English)
+      file: ../books/an-herbal-medicine-making-primer/ForPrinting-ENGLISH.pdf
 
 - title: Hilltop Boys 
-  hide: true
-  summary: 
+  summary: >
+    A true story about the Hilltop Crips
   tags:
+    - gangs
+    - crips
   links:
-    - name: Read
-      file: https://azinelibrary.org/approved/hilltop-boys-true-story-about-hilltop-crips-1.pdf
+    - name: Digital Reading (English)
+      file: ../books/the-hilltop-boys/DigitalReading-ENGLISH.pdf
 
-- title: "History Repeats Itself: First As Farce, Then As Tragedy" 
-  hide: true
-  summary: 
+- title: History Repeats Itself; First As Farce, Then As Tragedy
+  summary: >
+    Why the Democrats Are Responsible for Donald Trump’s Return to Power
   tags:
+    - trump
+    - democrats
+    - maga
   links:
-    - name: Read
-      file: https://crimethinc.com/2024/11/06/history-repeats-itself-first-as-farce-then-as-tragedy-why-the-democrats-are-responsible-for-donald-trumps-return-to-power
-    - name: Print
-      file: https://cdn.crimethinc.com/assets/zines/history-repeats-itself-first-as-farce-then-as-tragedy/history-repeats-itself-first-as-farce-then-as-tragedy_print_black_and_white.pdf
+    - name: For Printing (English)
+      file: ../books/history-repeats-itself-first-as-farce-then-as-tragedy/ForPrinting-ENGLISH.pdf
 
-- title: "Hot Pantz: DIY Gynecology" 
-  hide: true
-  summary: 
+- title: Hot Pantz; DIY Gynecology 
+  summary: >
+    From anatomy to self-healing using herbs and massage, it is filled with easy recipes
+    and remedies to conquer yeast infections, sexually transmitted diseases (STDs), hormonal
+    imbalances, late periods... a whole array of medicinal plants and nutritional information to
+    arm us against abusive and negligent medical
+    practices.
   tags:
+    - diy
+    - gynecology
+    - reproductive care
   links:
-    - name: Read
-      file: https://files.sproutdistro.com/HotPantz-screen.pdf
-    - name: Print
-      file: https://files.sproutdistro.com/HotPantz-imposed.pdf
+    - name: Digital Reading (English)
+      file: ../books/hot-pantz/DigitalReading-ENGLISH.pdf
+    - name: For Printing (English)
+      file: ../books/hot-pantz/ForPrinting-ENGLISH.pdf
 
 - title: How it is to Be Fun 
   hide: true
@@ -442,52 +486,60 @@
   links:
 
 - title: How to Organize an Assembly 
-  hide: true
-  summary: 
+  summary: >
+    Preparing to Respond in an Era of Disasters and Despotism
   tags:
+    - disaster
+    - community
   links:
-    - name: Read
-      file: https://crimethinc.com/2024/11/10/how-to-organize-an-assembly-preparing-to-respond-to-an-era-of-disasters-and-despotism
-    - name: Print
-      file: https://cdn.crimethinc.com/assets/zines/how-to-organize-an-assembly/how-to-organize-an-assembly_print_black_and_white.pdf
+    - name: For Printing (English)
+      file: ../books/how-to-organize-an-assembly/ForPrinting-ENGLISH.pdf
 
 - title: How to Throw a Squatted Dance Party 
-  hide: true
-  summary: 
+  summary: >
+    The following anonymous instructional text was composed by people who 
+    organize squatted dance parties in the United Statestoday. The link 
+    between unauthorized dancing and radical politics extends back many 
+    decades, from the early rave scene and the worldwide squatting movement 
+    through Reclaim the Streets and Occupy.
   tags:
+    - party
+    - squatting
   links:
-    - name: Read
-      file: https://crimethinc.com/2018/03/30/how-to-throw-a-squatted-dance-party-a-step-by-step-guide#:~:text=If%20you%20decide%20to%20squat,your%20event%20to%20the%20police.
-    - name: Print
-      file: https://cdn.crimethinc.com/assets/zines/how-to-organize-a-squatted-dance-party/how-to-organize-a-squatted-dance-party_lite.pdf
+    - name: For Printing (English)
+      file: ../books/how-to-throw-a-squatted-dance-party/ForPrinting-ENGLISH.pdf
 
 - title: If You See Something, Do Something! 
-  hide: true
-  summary: 
+  summary: >
+    12 things to do instead of calling the cops
   tags:
+    - police
+    - community
+    - safety
   links:
-    - name: Read
-      file: https://ia800405.us.archive.org/30/items/12ThingsToDoInsteadOfCallingTheCops/12things-screen.pdf
+    - name: Digital Reading (English)
+      file: ../books/if-you-see-something-do-something/DigitalReading-ENGLISH.pdf
 
 - title: In Defense of Smashing Cameras 
-  hide: true
-  summary: 
+  summary: >
+    Photographers at demonstrations will soon outnumber demonstrators, those who 
+    are willing to take action. This is something we need to take a stand against.
   tags:
   links:
-    - name: Read
-      file: https://theanarchistlibrary.org/library/anonymous-in-defense-of-smashing-cameras.pdf
-    - name: Print
-      file: https://theanarchistlibrary.org/library/anonymous-in-defense-of-smashing-cameras.lt.pdf
+    - name: Digital Reading (English) 
+      file: ../books/in-defense-of-smashing-cameras/DigitalReading-ENGLISH.pdf
+    - name: For Printing (Enlglish)
+      file: ../books/in-defense-of-smashing-cameras/ForPrinting-ENGLISH.pdf
 
 - title: Industrial Domestication 
-  hide: true
-  summary: 
+  summary: >
+
   tags:
   links:
-    - name: Read
-      file: https://files.sproutdistro.com/industrial-domestication-SCREEN.pdf
-    - name: Print
-      file: https://files.sproutdistro.com/industrial-domestication.pdf
+    - name: Digital Reading (English)
+      file: ../books/industrial-domestication/DigitalReading-ENGLISH.pdf
+    - name: For Printing (English)
+      file: ../books/industrial-domestication/ForPrinting-ENGLISH.pdf
 
 - title: International Revolutionary Solidarity Movement 
   hide: true
