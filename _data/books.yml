@@ -23,7 +23,7 @@
   tags:
   links:
     - name: For Printing (English)
-      file:
+      file: 
 
 - title: 10 Anarchist Theses on Palestine Solidarity in the United States 
   summary: Anonymously submitted to Haters Cafe (haters.life). Designed by post.chicanx. 
@@ -43,11 +43,44 @@
       file: https://abolitionmedia.noblogs.org/12197/
 
 - title: A Communique on Sabotaging Zionist Infrastructure: Shutting Down Friends of the IDF
+  hide: true
   summary:  
   tags:
   links:
     - name: Digital Reading (English)
-      file: 
+      file: ../books/
+
+- title: A Love Letter From the End of the World
+  hide: true
+  summary:  
+  tags:
+  links:
+    - name: Digital Reading (English)
+      file: ../books/
+      
+- title: a practical guide to prisoner support
+  hide: true
+  summary:  
+  tags:
+  links:
+    - name: Digital Reading (English)
+      file: ../books/
+
+- title: ACAB includes the Peace Police
+  hide: true
+  summary:  three report backs from Palestinian solidarity actions
+  tags:
+  links:
+    - name: Digital Reading (English)
+      file: ../books/
+      
+- title: Accomplices Not Allies
+  hide: true
+  summary:  abolishing the ally industrial complex; an indigenous perspective
+  tags:
+  links:
+    - name: Digital Reading (English)
+      file: ../books/
 
 - title: Accounting for Ourselves 
   summary: Breaking the Impasse Around Assault and Abuse in Anarchist Scenes.
@@ -62,6 +95,13 @@
       file: ../books/accounting-for-ourselves/DigitalReading-ENGLISH.pdf
     - name: For Printing (English)
       file: ../books/accounting-for-ourselves/ForPrinting-ENGLISH.pdf
+
+- title: ACLU of Oregon Sues Medford Police Department for Illegally Spying on People
+  hide: true
+  summary: written by Christina Nguyen
+  tags:
+  links:
+  
 
 - title: Activist Trauma & Recovery 
   summary: >
