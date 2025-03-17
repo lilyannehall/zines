@@ -17,6 +17,14 @@
     - name: For Printing (French)
       file: ../books/myths-of-psychiatric-incarceration/ForPrinting-FRENCH.pdf
 
+- title: Repression Breeds Resistance -- Only If We Try
+  hide: true
+  summary: the editorial statement of The Committee to Fight Repression, The Insurgent, vol. 1, no. 1 summer 1985 
+  tags:
+  links:
+    - name: For Printing (English)
+      file:
+
 - title: 10 Anarchist Theses on Palestine Solidarity in the United States 
   summary: Anonymously submitted to Haters Cafe (haters.life). Designed by post.chicanx. 
   tags:
@@ -28,16 +36,18 @@
       file: ../books/10-anarchist-theses-on-palestine-solidarity-in-the-united-states/ForPrinting-ENGLISH.pdf
 
 - title: 2024 Beheading the Imperialist Snake
-  hide: true
+  summary:  from Aboltion Media
+  tags:
+  links:
+    - name: Digital Reading (English)
+      file: https://abolitionmedia.noblogs.org/12197/
+
+- title: A Communique on Sabotaging Zionist Infrastructure: Shutting Down Friends of the IDF
   summary:  
   tags:
   links:
-
-- title: 4 Years Later 
-  hide: true
-  summary: 
-  tags:
-  links:
+    - name: Digital Reading (English)
+      file: 
 
 - title: Accounting for Ourselves 
   summary: Breaking the Impasse Around Assault and Abuse in Anarchist Scenes.
