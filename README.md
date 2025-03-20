@@ -1,5 +1,1 @@
-# ![People's Free Library](pfl-profile.jpg)
-
-## Contributing
-
-TODO
+# ![People's Free Library](pfl.png)
