@@ -42,13 +42,12 @@
     - name: Digital Reading (English)
       file: https://abolitionmedia.noblogs.org/12197/
 
-- title: A Communique on Sabotaging Zionist Infrastructure: Shutting Down Friends of the IDF
-  hide: true
+- title: A Communique on Sabotaging Zionist Infrastructure -- Shutting Down Friends of the IDF
   summary:  
   tags:
   links:
     - name: Digital Reading (English)
-      file: ../books/
+      file: ../books/a-communique-on-sabatoging-zionist-infrastructure/DigitalReading-ENGLISH.pdf
 
 - title: A Love Letter From the End of the World
   hide: true
